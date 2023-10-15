@@ -16,5 +16,5 @@ and another same chart for profit
 
 - Stacked coloumn chart to show sales by shipmode , sales by category , sales by sub - category
 
-4 Use of MAps which changes according to filter 
+4 Use of Maps which changes according to filter 
 

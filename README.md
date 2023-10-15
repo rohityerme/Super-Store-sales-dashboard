@@ -1,7 +1,7 @@
 # Super-Store-sales-dashboard
 
 In this project the dataset used from 2 years of data to make dashboard and analysis
-
+ 
 In that use of Power Bi functions such as 
 
 1 KPI (key performance indicator) -
